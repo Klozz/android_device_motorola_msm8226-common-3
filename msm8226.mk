@@ -221,10 +221,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     thermal-engine-8226.conf
 
-# Torch
-PRODUCT_PACKAGES += \
-    Torch
-
 # USB
 PRODUCT_PACKAGES += \
     com.android.future.usb.accessory
